@@ -1,0 +1,89 @@
+.education{
+    padding:100px 8%;
+    background:#0F172A;
+}
+
+.edu-subtitle{
+    text-align:center;
+    color:#38BDF8;
+    letter-spacing:3px;
+    font-weight:600;
+    margin-bottom:15px;
+}
+
+.edu-title{
+    text-align:center;
+    color:white;
+    font-size:48px;
+    margin-bottom:60px;
+}
+
+.timeline{
+    position:relative;
+    max-width:900px;
+    margin:auto;
+    border-left:3px solid #38BDF8;
+    padding-left:40px;
+}
+
+.timeline-item{
+    position:relative;
+    margin-bottom:60px;
+}
+
+.circle{
+    position:absolute;
+    left:-52px;
+    width:20px;
+    height:20px;
+    border-radius:50%;
+    background:#38BDF8;
+}
+
+.content{
+    background:#1E293B;
+    padding:25px;
+    border-radius:15px;
+    transition:.3s;
+}
+
+.content:hover{
+    transform:translateY(-6px);
+}
+
+.content h3{
+    color:white;
+    margin-bottom:10px;
+}
+
+.content h4{
+    color:#38BDF8;
+    margin-bottom:10px;
+}
+
+.content span{
+    color:#94A3B8;
+}
+
+.content p{
+    margin-top:10px;
+    color:#CBD5E1;
+}
+@media(max-width:768px){
+
+.timeline{
+
+    padding-left:25px;
+}
+
+.circle{
+
+    left:-37px;
+}
+
+.edu-title{
+
+    font-size:34px;
+}
+
+}
