@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.578a6efd.css",
+    "main.js": "/Portfolio/static/js/main.41742a5d.js",
+    "static/media/AnkithaResume.pdf": "/Portfolio/static/media/AnkithaResume.cb278ab0180823dcb6f0.pdf",
+    "static/media/profile.jpeg": "/Portfolio/static/media/profile.4d86952e24a48eae93d2.jpeg",
+    "static/media/hospital.jpeg": "/Portfolio/static/media/hospital.379611f3efe4cb247a39.jpeg",
+    "static/media/student.jpeg": "/Portfolio/static/media/student.bd777e3a538b97d1188c.jpeg",
+    "static/media/portfolio.jpeg": "/Portfolio/static/media/portfolio.554a8a19d61e0c10311c.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.578a6efd.css.map": "/Portfolio/static/css/main.578a6efd.css.map",
+    "main.41742a5d.js.map": "/Portfolio/static/js/main.41742a5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.578a6efd.css",
+    "static/js/main.41742a5d.js"
+  ]
+}
